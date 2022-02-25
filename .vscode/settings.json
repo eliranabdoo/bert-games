@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportUnboundVariable": "information",
+        "reportImplicitStringConcatenation": "warning",
+        "reportSelfClsParameterName": "warning"
+      }
+}
